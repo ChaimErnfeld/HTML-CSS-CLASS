@@ -1,0 +1,31 @@
+/* .img2 {
+  display: block;
+}
+
+.img4 {
+  display: block;
+} */
+
+/* .img1 {
+  display: inline;
+}
+
+.img3 {
+  display: inline;
+} */
+
+.images {
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: blueviolet;
+  font-size: 50px;
+}
+
+.links {
+  font-size: 25px;
+  text-align: center;
+  color: rgb(33, 33, 102);
+}
